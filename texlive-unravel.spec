@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-unravel
 Version:	20131009
-Release:	6
+Release:	7
 Summary:	TeXLive unravel package
 Group:		Publishing
 URL:		http://tug.org/texlive
