@@ -1,12 +1,6 @@
-# revision 31307
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-unravel
-Version:	20131009
-Release:	9
+Version:	0.2
+Release:	1
 Summary:	TeXLive unravel package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -32,12 +26,10 @@ TeXLive unravel package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/unravel/unravel.sty
-%doc %{_texmfdistdir}/doc/latex/unravel/README
-%doc %{_texmfdistdir}/doc/latex/unravel/unravel.pdf
+%{_texmfdistdir}/tex/latex/unravel
+%doc %{_texmfdistdir}/doc/latex/unravel
 #- source
-%doc %{_texmfdistdir}/source/latex/unravel/unravel.dtx
-%doc %{_texmfdistdir}/source/latex/unravel/unravel.ins
+%doc %{_texmfdistdir}/source/latex/unravel
 
 #-----------------------------------------------------------------------
 %prep
