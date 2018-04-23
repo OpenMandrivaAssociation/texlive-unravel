@@ -1,5 +1,5 @@
 Name:		texlive-unravel
-Version:	0.2
+Version:	0.2e
 Release:	1
 Summary:	TeXLive unravel package
 Group:		Publishing
