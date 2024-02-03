@@ -1,6 +1,6 @@
 Name:		texlive-unravel
-Version:	59175
-Release:	2
+Version:	69308
+Release:	1
 Summary:	TeXLive unravel package
 Group:		Publishing
 URL:		http://tug.org/texlive
